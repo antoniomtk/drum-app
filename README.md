@@ -4,4 +4,4 @@ This is part of the JavaScript30 Tutorial. Sound is played when user presses the
 
 You can check it out working version here: [DEMO](https://antoniomtk.github.io/drumm-app/)
 
-(https://github.com/antoniomtk/drumm-app/blob/master/img/screenshot.jpg "Drum App")
+![alt text](https://github.com/antoniomtk/drumm-app/blob/master/img/screenshot.jpg "Drum App")
