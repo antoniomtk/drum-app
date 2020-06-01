@@ -1,0 +1,92 @@
+html {
+  font-size: 10px;
+  background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background-size: cover;
+}
+
+body,html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+  background:
+        linear-gradient(
+          rgba(0, 0, 0, 0.7), 
+          rgba(0, 0, 0, 0.7)
+        ),
+        url("https://images.unsplash.com/photo-1461784121038-f088ca1e7714?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.keys {
+  display: flex;
+  flex: 1;
+  min-height: 60vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.key {
+  border: .1rem solid #dbdbdb;
+  border-radius: .6rem;
+  margin: 1rem;
+  font-size: 1.5rem;
+  padding: 1rem .5rem;
+  transition: all .08s ease;
+  width: 10rem;
+  font-weight: 400;
+  text-align: center;
+  color: white;
+  background: rgba(0,0,0,0.4);
+  text-shadow: 0 0 .5rem black;
+}
+
+.playing {
+  transform: scale(1.4);
+  border-color: #ffc600;
+  box-shadow: 0 0 1rem #ffc600;
+}
+
+kbd {
+  display: block;
+  font-size: 4rem;
+}
+
+.sound {
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  color: #ffc600;
+}
+
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  margin: 50px auto;
+  font-size: 6rem;
+  color: #0e9aa7;
+}
+
+.title-p {
+  text-align: center;
+  text-transform: uppercase;
+  margin: 50px auto;
+  font-size: 2rem;
+  margin-top: -50px;
+  color: #ffcd3c;
+}
+
+footer img {
+  width: 50px;
+  height: auto;
+  text-align: center;
+  position: absolute;
+  bottom: 40px;
+  right: 50%;
+}
+
+.app-name {
+  color: #d92027;
+}
