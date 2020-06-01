@@ -5,4 +5,4 @@ This is part of the JavaScript30 Tutorial. Sound is played when user presses the
 You can check it out working version here: [DEMO](https://antoniomtk.github.io/drumm-app/)
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/antoniomtk/drumm-app/blob/master/img/logo.png "Drum App")
